@@ -6,4 +6,8 @@ ti nua lai buon
 
 gio khong buon nua
 
+<<<<<<< HEAD
 khong phai ma thuat
+=======
+
+>>>>>>> 813b6b2f79e45d34591fbfd0f244d8c99ddf0221
